@@ -1,0 +1,24 @@
+a {
+  margin: 0.5em;
+  text-decoration: none;
+  color: white;
+}
+
+#logo{
+  width: 10%;
+  margin-left: 8vw;
+}
+
+body {
+  margin-top: 7.5em;
+}
+
+#links {
+  display: flex;
+  flex-direction: row;
+  align-items: center
+}
+
+/* #nav {
+  background-color: rgb(245, 197, 41)
+} */

@@ -1,0 +1,15 @@
+/* body {
+    text-align: center; 
+    margin: 1em;
+} */
+
+#products {
+  border-top: 5px solid black;
+  display: flex;
+  flex-direction: column;
+}
+
+li {
+  border-bottom: 2px solid rgb(219, 219, 219);
+}
+
